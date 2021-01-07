@@ -1,0 +1,15 @@
+{
+  "name": "zeida",
+  "version": "1.0.0",
+  "description": "instagram automator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "serj.ilyashenko@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
